@@ -1,0 +1,29 @@
+{
+    "manufacter": {
+        "name": "Harley-Davidson Motor Company,",
+        "country": "Milwaukee, Wisconsin, Estados Unidos"
+    },
+    "engine": {
+        "gears": "5",
+        "transmission": "Automatic",
+        "type": "Diesel"
+    },
+    "description": "Abreviado como H-D o Harley, es un fabricante de motos de Estados Unidos.",
+    "id": "Harley Davidson Knucklehead",
+    "images": [
+        "img/mot/Harley Davidson Knucklehead.jpg"
+
+    ],
+    "name": "Harley Davidson ",
+    "sizeAndWeight": {
+        "dimensions": [
+            "2,226 mm (w)",
+            "709 mm (h)",
+            "640 mm (l)"
+        ],
+        "weight": "220 Kg"
+    },
+    "space": {
+        "volume": "13L"
+    }
+}

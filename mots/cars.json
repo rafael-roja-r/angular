@@ -1,0 +1,24 @@
+[
+
+    {
+        "model": 2002,
+        "id": "Harley Davidson",
+        "imageUrl": "img/mot/Harley Davidson Knucklehead.jpg",
+        "name": "Harley Davidson Knucklehead",
+        "snippet": "MADE WITH YOU IN MIND TO GIVE YOU THE HIGHEST QUALITY"
+    },
+    {
+        "model": 2011,
+        "id": "Guzzi",
+        "imageUrl": "img/mot/Moto Guzzi.jpg",
+        "name": "Moto Guzzi",
+        "snippet": "SPORTY LIKE A COUPE. ROOMY LIKE A SEDAN."
+    },
+    {
+        "model": 2010,
+        "id": "Triumph",
+        "imageUrl": "img/mot/Triumph Bonneville T100.jpg",
+        "name": "Triumph Bonneville T100",
+        "snippet": "The Triumph Bonneville is all about freedom including freedom of choice."
+    }
+]

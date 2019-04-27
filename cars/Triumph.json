@@ -1,0 +1,29 @@
+{
+    "manufacter": {
+        "name": "Triumph Engineering Co Ltd",
+        "country": "Reino Unido"
+    },
+    "engine": {
+        "gears": "5",
+        "transmission": "Manual",
+        "type": "Diesel"
+    },
+    "description": "es una motocicleta de carretera con un motor de cuatro tiempos de dos cilindros en línea paralelos.",
+    "id": "Triumph Bonneville T100",
+    "images": [
+        "img/mot/Triumph Bonneville T100.jpg"
+
+    ],
+    "name": "Triumph Bonneville T100",
+    "sizeAndWeight": {
+        "dimensions": [
+            "2,230 mm (w)",
+            "740 mm) (h)",
+            "770 mm (l)"
+        ],
+        "weight": "230 Kg"
+    },
+    "space": {
+        "volume": "16L"
+    }
+}

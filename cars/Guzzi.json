@@ -1,0 +1,28 @@
+{
+    "manufacter": {
+        "name": "Hyundai",
+        "country": "Mandello del Lario, Flag of Italy.svg Italia"
+    },
+    "engine": {
+        "gears": "5",
+        "transmission": "Manual",
+        "type": "Petrol"
+    },
+    "description": " es el nombre de una famosa compañía italiana fabricante de motocicletas.",
+    "id": "Moto Guzzi",
+    "images": [
+        "img/mot/Moto Guzzi.jpg"
+    ],
+    "name": "Moto Guzzi",
+    "sizeAndWeight": {
+        "dimensions": [
+            "2,206 mm (w)",
+            "709 mm (h)",
+            "640 mm (l)"
+        ],
+        "weight": "230 Kg"
+    },
+    "space": {
+        "volume": "13L"
+    }
+}
